@@ -1,4 +1,0 @@
-print (Enter User name)
-get (User name)
-print ( "Welcome," + User name )
-print ("Hello, + User name + "Welcome to DevOps lab)  
